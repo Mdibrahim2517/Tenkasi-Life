@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Tenkasi-Life/static/css/main.c18c0017.css",
+    "main.js": "/Tenkasi-Life/static/js/main.efdfc192.js",
+    "static/js/453.fbbd8fcc.chunk.js": "/Tenkasi-Life/static/js/453.fbbd8fcc.chunk.js",
+    "static/media/Contactpic.jpg": "/Tenkasi-Life/static/media/Contactpic.8658e55ebf7db3861978.jpg",
+    "static/media/he.jpg": "/Tenkasi-Life/static/media/he.cbc81e44035fdb1452bd.jpg",
+    "static/media/pp.jpg": "/Tenkasi-Life/static/media/pp.a43ff14dc6e3403096b0.jpg",
+    "static/media/pic101.jpg": "/Tenkasi-Life/static/media/pic101.d6adfa8db7845c07f33a.jpg",
+    "static/media/travel3.jpg": "/Tenkasi-Life/static/media/travel3.35073ffed490981f67de.jpg",
+    "static/media/p.jpg": "/Tenkasi-Life/static/media/p.1f1ec27474288fb356bf.jpg",
+    "static/media/o.jpg": "/Tenkasi-Life/static/media/o.31249143e24e5ce4b318.jpg",
+    "static/media/falls1.jpg": "/Tenkasi-Life/static/media/falls1.f7e2f18f331da682f31e.jpg",
+    "static/media/falls2.jpg": "/Tenkasi-Life/static/media/falls2.f72abf36a13b26a0b5e0.jpg",
+    "static/media/r1.jpg": "/Tenkasi-Life/static/media/r1.cc7d820dd7770c47b1b6.jpg",
+    "static/media/travel2.jpg": "/Tenkasi-Life/static/media/travel2.8170a2fff3dce598a895.jpg",
+    "static/media/r2.jpg": "/Tenkasi-Life/static/media/r2.16a14941927a71352cdd.jpg",
+    "static/media/travel1.jpg": "/Tenkasi-Life/static/media/travel1.04014cd594f41a0c4d06.jpg",
+    "static/media/r3.jpg": "/Tenkasi-Life/static/media/r3.df12a669ff76785d3659.jpg",
+    "index.html": "/Tenkasi-Life/index.html",
+    "main.c18c0017.css.map": "/Tenkasi-Life/static/css/main.c18c0017.css.map",
+    "main.efdfc192.js.map": "/Tenkasi-Life/static/js/main.efdfc192.js.map",
+    "453.fbbd8fcc.chunk.js.map": "/Tenkasi-Life/static/js/453.fbbd8fcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c18c0017.css",
+    "static/js/main.efdfc192.js"
+  ]
+}
