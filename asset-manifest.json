@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Tenkasi-Life/static/css/main.58c92d51.css",
-    "main.js": "/Tenkasi-Life/static/js/main.3de36bbf.js",
+    "main.js": "/Tenkasi-Life/static/js/main.8cbba003.js",
     "static/js/453.fbbd8fcc.chunk.js": "/Tenkasi-Life/static/js/453.fbbd8fcc.chunk.js",
     "static/media/Contactpic.jpg": "/Tenkasi-Life/static/media/Contactpic.8658e55ebf7db3861978.jpg",
     "static/media/he.jpg": "/Tenkasi-Life/static/media/he.cbc81e44035fdb1452bd.jpg",
@@ -19,11 +19,11 @@
     "static/media/r3.jpg": "/Tenkasi-Life/static/media/r3.df12a669ff76785d3659.jpg",
     "index.html": "/Tenkasi-Life/index.html",
     "main.58c92d51.css.map": "/Tenkasi-Life/static/css/main.58c92d51.css.map",
-    "main.3de36bbf.js.map": "/Tenkasi-Life/static/js/main.3de36bbf.js.map",
+    "main.8cbba003.js.map": "/Tenkasi-Life/static/js/main.8cbba003.js.map",
     "453.fbbd8fcc.chunk.js.map": "/Tenkasi-Life/static/js/453.fbbd8fcc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58c92d51.css",
-    "static/js/main.3de36bbf.js"
+    "static/js/main.8cbba003.js"
   ]
 }
