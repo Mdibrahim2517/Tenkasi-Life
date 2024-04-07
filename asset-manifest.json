@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Tenkasi-Life/static/css/main.37b4b004.css",
+    "main.css": "/Tenkasi-Life/static/css/main.0c325fbd.css",
     "main.js": "/Tenkasi-Life/static/js/main.83f48c7c.js",
     "static/js/453.fbbd8fcc.chunk.js": "/Tenkasi-Life/static/js/453.fbbd8fcc.chunk.js",
     "static/media/Contactpic.jpg": "/Tenkasi-Life/static/media/Contactpic.8658e55ebf7db3861978.jpg",
@@ -18,12 +18,12 @@
     "static/media/travel1.jpg": "/Tenkasi-Life/static/media/travel1.04014cd594f41a0c4d06.jpg",
     "static/media/r3.jpg": "/Tenkasi-Life/static/media/r3.df12a669ff76785d3659.jpg",
     "index.html": "/Tenkasi-Life/index.html",
-    "main.37b4b004.css.map": "/Tenkasi-Life/static/css/main.37b4b004.css.map",
+    "main.0c325fbd.css.map": "/Tenkasi-Life/static/css/main.0c325fbd.css.map",
     "main.83f48c7c.js.map": "/Tenkasi-Life/static/js/main.83f48c7c.js.map",
     "453.fbbd8fcc.chunk.js.map": "/Tenkasi-Life/static/js/453.fbbd8fcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37b4b004.css",
+    "static/css/main.0c325fbd.css",
     "static/js/main.83f48c7c.js"
   ]
 }
